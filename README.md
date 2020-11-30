@@ -46,13 +46,15 @@ BookHotel/build/libs/BookHotel.war
 
 You should see the following in the messages.log
 
-`[AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9081/holiday/ 
+```
+ [AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9081/holiday/ 
  [AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9081/hotel/  
  [AUDIT   ] CWWKT0016I: Web application available (default_host): http://localhost:9081/flight/  
  [AUDIT   ] CWWKZ0001I: Application BookHotel started in 1.039 seconds.  
  [AUDIT   ] CWWKZ0001I: Application BookFlight started in 1.058 seconds.  
- [AUDIT   ] CWWKZ0001I: Application BookHoliday started in 1.050 seconds`  
- 
+ [AUDIT   ] CWWKZ0001I: Application BookHoliday started in 1.050 seconds.
+```
+
 ## Running the Participants
 For all commands check the messages.log to see what is happening
 
