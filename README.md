@@ -40,9 +40,9 @@ Create a new Open Liberty server and replace its server.xml with OpenLiberty/Par
 
 Copy the following into the participant Open Liberty server's apps directory
 
-BookFlight/build/libs/BookFlight.war
-BookHoliday/build/libs/BookHoliday.war
-BookHotel/build/libs/BookHotel.war
+- BookFlight/build/libs/BookFlight.war
+- BookHoliday/build/libs/BookHoliday.war
+- BookHotel/build/libs/BookHotel.war
 
 You should see the following in the messages.log
 
